@@ -540,10 +540,10 @@
  "version": "1.0.0",
  "source": {
   "git": {
-   "head": "243ce0ac9c51504fc846e4ea1e35dbff03985871",
-   "url": "https://github.com/dronekit/dronekit-python",
-   "branch": "master",
-   "sha_verified_from": "GitHub API commits/master | unified 2026-10-14 (API-exists + content/clone anchor)"
+   "url": "https://github.com/ZJU-FAST-Lab/Fast-Drone-250",
+   "head": "8ff64274b161bb829653faf5946656658e7e2c9f",
+   "sha_verified_from": "revendor 2026-10-15: GitHub API commit lookup",
+   "previous_substitute": "https://github.com/dronekit/dronekit-python"
   }
  }
 }
